@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://qiita.com/nomin](https://qiita.com/nomin)
+- 📝 I regularly write articles on [https://qiita.com/nomin](https://qiita.com/nomin) [https://zenn.dev/nomindev](https://zenn.dev/nomindev)
 
 - 💬 Ask me about **Python**
 
