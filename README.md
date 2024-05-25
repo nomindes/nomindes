@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomindes&label=Profile%20views&color=0e75b6&style=flat" alt="nomindes" /> </p>
 
-<p align="left"> <a href="https://twitter.com/writis_" target="blank"><img src="https://img.shields.io/twitter/follow/writis_?logo=twitter&style=for-the-badge" alt="writis_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mi15Ultra" target="blank"><img src="https://img.shields.io/twitter/follow/Mi15Ultra?logo=twitter&style=for-the-badge" alt="Mi15Ultra" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
