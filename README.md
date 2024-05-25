@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Discord: nomin.**
+- 📫 How to reach me **DiscordID: flutter_dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
