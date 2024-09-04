@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm nomin.</h1>
 <h3 align="center">I am a programmer from Japan pursuing what I love!</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomindes&label=Profile%20views&color=0e75b6&style=flat" alt="nomindes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomindes" alt="nomindes" /></a> </p>
