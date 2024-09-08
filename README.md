@@ -1,6 +1,6 @@
 ![Greeting](./greeting.png)
 
-# Welcome to my profile!
+# Welcome to my profile!👋
 ## Badges
 ![X Follow](https://img.shields.io/twitter/follow/nomin_coding?style=flat&logo=X)
 [![GitHub followers](https://img.shields.io/github/followers/nomindes?style=flat&logo=GitHub&label=follow%20%40nomindes)](https://img.shields.io/github/followers/nomindes?style=flat&logo=GitHub
@@ -9,10 +9,10 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomin/contributions.svg)](http://qiita.com/nomin)
 
 ## WakaTime
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=nomin&layout=compact)](https://wakatime.com/@nomin)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=nomin&layout=compact&hide_border=true&bg_color=f9f9f9)](https://wakatime.com/@nomin)
 
 ## My Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nomindes&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nomindes&rank_icon=github&hide_border=true&bg_color=f9f9f9)](https://github.com/anuraghazra/github-readme-stats)
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomindes&theme=github-dark-dimmed&radius=5&custom_title=Contribution%20Graph%20in%20the%20last%2030%20days&hide_border=true)
 
 ## This page stats
